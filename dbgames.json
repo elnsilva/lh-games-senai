@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo 1",
+      "descricao": "Jogo de corrida",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "Jogo 2",
+      "descricao": "Jogo de fantasia",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Jogo 3",
+      "descricao": "Jogo de estratégia editado no formulário",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    },
+    {
+      "id": 4,
+      "produto": "Jogo 4 editado",
+      "descricao": "Jogo editado via PUT no Postman",
+      "foto": "jogo4.PNG",
+      "preco": "151"
+    },
+    {
+      "id": "5",
+      "produto": "Jogo 5",
+      "descricao": "Jogo criado via POST no Postman",
+      "foto": "jogo5.PNG",
+      "preco": "150"
+    },
+    {
+      "id": "F9M04cn",
+      "produto": "Jogo 6",
+      "descricao": "Jogo criado no formulário Cadastrar jogo",
+      "foto": "jogo1.PNG",
+      "preco": 199
+    }
+  ]
+}
